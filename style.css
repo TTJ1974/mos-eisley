@@ -1,0 +1,21 @@
+body {background-color:sandybrown;}
+header, footer, section, nav {border: black 1px solid;}
+
+header {background-image: url("https://i.ibb.co/Bg1WnkM/eisley23esize.png");
+  background-color: tan;
+
+color:black;
+text-align: center;}
+
+li {display: inline;
+padding: 10px;
+margin: 0px 20px;}
+
+#section1 {text-align: center;}
+
+#section2 {text-align: center;}
+
+center {
+  text-align: center;}
+
+footer{text-align: center;}
