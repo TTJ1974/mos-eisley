@@ -1,8 +1,8 @@
-  
-// console.log('hello beer drinkers')
+
+// console.log('Howdy Bar hoppers!')
 
 // String
-// let stringVariable = 'wiskey is better!'
+// let stringVariable = 'beerdabomb!'
 
 // Int / number
 // let numberVariable = 8
@@ -10,13 +10,14 @@
 // Boolean
 // let boolearVariable = true
 
-// stringVariable = 'beer is better!'
+// stringVariable = 'wiskey makes me frisky!'
 
 // console.log(stringVariable)
 
 let userName = prompt('Please Enter your Name: ');
 
 if(userName == 'john'){
-    document.write('Welcome wiskey lover! ' + userName);
+    document.write('beer AND wiskey! ' + userName);
 } else {
     document.write(userName)
+}
