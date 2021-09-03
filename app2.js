@@ -1,6 +1,6 @@
-let userAnswer = prompt('Do you want to join the Empire?')
+let userAnswer = prompt('Do you like beer')
 console.log(userAnswer)
 if(userAnswer.toLowerCase() == 'yes'){
-    let url = "https://i.ytimg.com/vi/fsiNs4rg8SA/maxresdefault.jpg"
+    let url = "https://i.ibb.co/RBqQVXq/lightspeed-pilsner-can1-720x.jpg
     document.write('<img src="' + url + '">')
 }
