@@ -16,13 +16,18 @@ margin: 0px 20px;
 }
 
 #section1 img {
-  float: left; 
+  float: bottom; 
   margin: 5px;
 }
 
 #section2 img {
-  float: right; 
+  float: bottom; 
   margin: 5px;
+}
+
+#section3 img {
+    float: left;
+    margin: 5px;
 }
 
 .center {
