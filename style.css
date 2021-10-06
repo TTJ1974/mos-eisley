@@ -1,1 +1,36 @@
+body {
+  background-color: tan;
+}
+h1 {
+  background-image: image(https://i.postimg.cc/fyGb1kDw/eisley23esize.png);
+
+}
+
+ul {text-align: center;
+}
+header {text-align: center; background-color: bisque; outline-style: double; margin-top: 5px; margin-left: 5px; margin-right: 5px;
+
+}
+img {float: left;
+
+}
+
+/* .paragraph {float: right;
+
+} */
+
+section {
+  display: block;
+  margin: 50px;
+  height: 30vh;
+  overflow: scroll;
+
+}
+
+footer {
+  float: none;
+}
+
+
+
 
