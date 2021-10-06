@@ -17,11 +17,8 @@
 let userName = prompt('Please enter your name!');
 console.log(userName);
 
-document.write(userName);let userName = prompt('Please enter your name!');
-console.log(userName);
-
-if(userName == 'Roger'){
-    document.write('<h2>Welcome Lord ' + userName + '</h2>');
+if(userName == 'john'){
+    document.write('<h2>Welcome Big Sexy! ' + userName + '</h2>');
 } else {
     document.write('<h2>Welcome ' + userName + '</h2>');
 }
