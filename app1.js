@@ -13,10 +13,11 @@
 // let fiftyFive = "55";
 // console.log(The variable fiftyFive is a ' + typeof(fiftyFive))
 // ;
-// Let userName = prompt('Please enter your name!');
-// console.log(userName);
 
-// document.write(userName);let userName = prompt('Please enter your name!');
+let userName = prompt('Please enter your name!');
+console.log(userName);
+
+document.write(userName);let userName = prompt('Please enter your name!');
 console.log(userName);
 
 if(userName == 'Roger'){
