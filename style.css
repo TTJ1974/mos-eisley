@@ -2,8 +2,7 @@ body {
   background-color: tan;
 }
 h1 {
-  background-image: image(https://i.postimg.cc/fyGb1kDw/eisley23esize.png);
-
+  background-image: image("https://i.postimg.cc/fyGb1kDw/eisley23esize.png");
 }
 
 ul {text-align: center;
