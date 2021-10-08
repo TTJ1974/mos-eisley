@@ -1,3 +1,5 @@
+function getUserName(){
+
 let userName = prompt('Please enter your name!');
     console.log(userName);
 
@@ -6,4 +8,6 @@ if(userName == 'john'){
     } else {
     document.write('<h2>Welcome ' + userName + '</h2>');
     }
+    return userName;
+}
 
