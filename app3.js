@@ -1,9 +1,6 @@
 
 function guessingGame(){
     // prompt user to enter a number
-    
-    let userAnswer = prompt('would you like to play a game?');
-    let correctAnswer = yes; 
     let userAnswer = prompt('Please Enter a number between 1-100');
     let correctAnswer = 71; // maybe we can randomize this later
     let attempts = 8;
